@@ -1,0 +1,10 @@
+Metal
+0
+Cano
+5
+Cimento
+0
+Areia
+0
+Pedra
+0
